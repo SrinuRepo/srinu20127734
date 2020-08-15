@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- I am currently learning and capturing the best programming practices.
 <!--
 **srinu20127734/srinu20127734** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
